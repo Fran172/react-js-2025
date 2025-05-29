@@ -1,0 +1,30 @@
+.font-pangolin {
+  font-family: "Pangolin", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.font-lxgw-wenkai {
+  font-family: "LXGW WenKai Mono TC", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    padding: 10px;
+}
+
+.parrafo {
+    text-align: left;
+    font-size: 24px;
+    margin: 0 2%;
+    padding: 10px;
+}
+
+.centrar-contenedor {
+  max-width: 1200px;
+  margin: 70px auto;
+}

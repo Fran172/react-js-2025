@@ -1,0 +1,20 @@
+.detalle {
+    background-color: #6FAD47;
+    border-style: double none;
+    border-color: #FFDDBB;
+    border-width: 15px;
+    padding: 20px 1rem 100px 1rem;
+    max-width: 500px;
+}
+
+.detalle-p {
+    margin: 0 auto;
+    color: blanchedalmond;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.detalle-p > span {
+    color: white;
+    font-size: 32px;
+}

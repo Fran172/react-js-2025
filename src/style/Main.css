@@ -1,0 +1,7 @@
+.bienvenida {
+    padding: 20px;
+    background-color:#c9a27b;
+    border: 10px dashed #FFDDBB;
+    border-top: none;
+    border-bottom: none;
+}
