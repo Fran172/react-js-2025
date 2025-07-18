@@ -1,0 +1,10 @@
+.pie-de-pagina {
+    background-image: linear-gradient(to top, #bd956c, transparent);
+    padding: 25px 0 5px 0;
+    margin-top: 200px;
+}
+
+.pie-de-pagina>p {
+    margin: 0;
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #FF5C32;
+    font-size: 26px;
+}
+
+.nav-link {
+    color: #FFDDBB;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link svg {
+    margin-right: 12px;
+}
+
+.navbar-nav .nav-link.active {
+    color: white;
+    text-decoration: underline 5px #FFAD27;
+}
+
+.nav-link:hover {
+    color: #528a2d;
+    background-color: #FF8C32;
+    padding-left: 15px;
+    transition:
+        background-color 0.2s,
+        padding-left 0.2s;
+}
+
+.contador {
+    background-color: #FFAD27;
+    border-radius: 50%;
+    padding: 0 10px;
+}

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../style/Menu.css';
+import '../styles/Menu.css';
 
 const Menu = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -17,7 +17,7 @@ const Menu = () => {
         <button className="close-btn" onClick={toggleMenu}>
           ×
         </button>
-        
+
       </div>
     </div>
   );

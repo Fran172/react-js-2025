@@ -1,0 +1,141 @@
+.contenedor-productos {
+    background-color: #6FAD47;
+    margin: 70px auto;
+    padding: 10px;
+}
+
+.contenedor-busqueda {
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 20px;
+}
+
+.contenedor-busqueda>* {
+    background-color: #5a9235;
+    border: 10px double #6FAD47;
+}
+
+.input-busqueda {
+    background-color: #5a9235;
+    border: 0;
+    color: #FFDDBB;
+}
+
+.input-busqueda:focus {
+    background-color: #437025;
+    border: 0;
+    color: #FFDDBB;
+}
+
+.lista-productos {
+    background-color: #6FAD47;
+    border-width: 10px;
+    border-style: dotted none;
+    border-color: #FFDDBB;
+    padding: 30px;
+    margin: 20px 0;
+}
+
+.card-producto {
+    background-color: #FFDDBB;
+    border: 5px outset #FFDDBB;
+    text-align: center;
+}
+
+.imagen-producto:hover {
+    border: 5px inset #a88460;
+    transition: border 0.1s;
+}
+
+.nombre-producto {
+    color: #FF5C32;
+    font-size: 2rem;
+    margin: 0;
+}
+
+.precio-producto {
+    color: #528a2d;
+    font-size: 1.2rem;
+}
+
+.parrafo-confirmacion {
+    margin: 0;
+}
+
+.boton-agregar-producto,
+.boton-editar-producto,
+.boton-eliminar-producto,
+.boton-cancelar {
+    padding: 0.5rem 3rem;
+    margin: 10px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+}
+
+.boton-agregar-producto:hover {
+    background-color: #7ac04c;
+    border-color: #7ac04c;
+    cursor: pointer;
+}
+
+.boton-agregar-producto,
+.boton-agregar-producto:active {
+    background-color: #6FAD47;
+    border: 3px outset #6FAD47;
+    color: #212529;
+}
+
+.boton-agregar-producto:active {
+    border-style: inset;
+}
+
+.boton-editar-producto:hover {
+    background-color: rgb(255, 214, 33);
+    border-color: rgb(255, 214, 33);
+    cursor: pointer;
+}
+
+.boton-editar-producto,
+.boton-editar-producto:active {
+    background-color: rgb(255, 208, 0);
+    border: 3px outset rgb(255, 208, 0);
+    color: black;
+}
+
+.boton-editar-producto:active {
+    border-style: inset;
+}
+
+.boton-eliminar-producto:hover {
+    background-color: #FF5C32;
+    border-color: #FF5C32;
+    cursor: pointer;
+}
+
+.boton-eliminar-producto,
+.boton-eliminar-producto:active {
+    background-color: #ff3232;
+    border: 3px outset #ff3232;
+    color: white;
+}
+
+.boton-eliminar-producto:active {
+    border-style: inset;
+}
+
+.boton-cancelar:hover {
+    background-color: rgb(163, 163, 163);
+    border-color: rgb(163, 163, 163);
+    cursor: pointer;
+}
+
+.boton-cancelar,
+.boton-cancelar:active {
+    background-color: rgb(119, 119, 119);
+    border: 3px outset rgb(119, 119, 119);
+    color: white;
+}
+
+.boton-cancelar:active {
+    border-style: inset;
+}

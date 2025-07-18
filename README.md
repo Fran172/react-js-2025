@@ -1,7 +1,7 @@
 # Pre-Entrega de Proyecto
 Aplicación de e-commerce desarrollado con ReactJS para un curso de Talento Tech.
 
-## Caracteristicas
+## Características
 1. Funcionalidad básica de carrito de compras.
 	- Lista los productos comprados
 	- Maneja estado del carrito con useState
@@ -16,3 +16,15 @@ Aplicación de e-commerce desarrollado con ReactJS para un curso de Talento Tech
 	- Separa componentes y layouts
 	- Puede navegar entre layouts
 	- Restringe acceso no autorizado a vista de admin
+4. Optimización de Diseño y Responsividad
+    - Bootstrap para adaptar el contenido a distintas pantallas
+    - React Toastify para notificaciones
+    - React Icons para agregar iconos en botones y elementos
+5. Funcionalidad básica de admin:
+    - Agregar producto
+    - Editar producto
+    - Eliminar producto
+6. Uso de Context API para evitar props anidadas
+
+## Vista previa del proyecto
+- [Ver en Netlify](https://celebrated-kulfi-3ad8d5.netlify.app/)

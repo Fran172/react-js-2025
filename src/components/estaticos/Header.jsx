@@ -1,11 +1,25 @@
 import React from 'react'
-import '../../style/Header.css'
+import backgroundImage from '../../assets/background_01.jpg';
 
 function Header() {
-  const estilo = { backgroundColor: "#FFAD27", padding: "10px", textAlign: "center", color: "white" }
-  return (<>
-      <header style={estilo}> <h1>FrutiClick!</h1> </header>
-  </>)
+  const estiloTitulo = {
+    backgroundColor: "#70ad4798",
+    padding: "15px",
+    backdropFilter: "blur(5px)"
   }
+  const estiloHeader = {
+    backgroundImage: `url(${backgroundImage})`,
+    padding: "10px",
+    textAlign: "center",
+    color: "white"
+  };
+
+
+  return (
+    <header style={estiloHeader}>
+      <h1 style={estiloTitulo}>FrutiClick!</h1>
+    </header>
+  )
+}
 
 export default Header

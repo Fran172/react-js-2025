@@ -1,0 +1,17 @@
+.detalle-card {
+    background-color: #6FAD47;
+    border-style: double none;
+    border-color: #FFDDBB;
+    border-width: 15px;
+    padding: 1rem;
+    font-size: 1.5rem;
+    max-width: 800px;
+}
+
+.detalle-clave {
+    color: blanchedalmond;
+}
+
+.detalle-valor {
+    color: white;
+}

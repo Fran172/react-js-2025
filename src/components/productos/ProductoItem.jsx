@@ -1,17 +1,24 @@
 import React from 'react'
-import {Link} from 'react-router-dom';
-import '../../style/Producto.css'
+import { Link } from 'react-router-dom';
+import '../../styles/Producto.css'
+import { useCarrito } from '../../context/CarritoContext.jsx';
 
-function Producto({producto, onAddToCart}) {
+function Producto({ producto }) {
+  const { handleAddToCart } = useCarrito();
+
   return (
-    <article className='tarjeta-producto font-pangolin'>
-      <Link to={`/productos/${producto.id}`}>
-        <img className='imagen-producto' src={producto.imagen} alt={producto.titulo} title="Ver detalles del producto"/>
-      </Link>
-      <h3 className='titulo-producto'>{producto.titulo}</h3>
-      <p className='precio-producto'>${producto.precio}</p>
-      <button className='boton-agregar-producto' onClick={() => onAddToCart(producto, 1)}>Agregar</button>
-    </article>
+    <>
+      <div className='col-12 col-md-6 col-lg-4 mb-4'>
+        <article className='card card-producto font-pangolin h-100'>
+          <Link to={`/productos/${producto.id}`}>
+            <img className='imagen-producto card-img-top img-fluid' src={producto.imagen} alt={producto.nombre} title="Ver detalles del producto" />
+          </Link>
+          <h5 className='nombre-producto card-title'>{producto.nombre}</h5>
+          <p className='precio-producto card-text'>${producto.precio}</p>
+          <button className='boton-agregar-producto' onClick={() => handleAddToCart(producto, 1)}>Agregar</button>
+        </article>
+      </div>
+    </>
   )
 }
 

@@ -1,0 +1,138 @@
+[
+    {
+        "nombre": "Chair",
+        "precio": "653.59",
+        "stock": 73,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/39.jpg",
+        "descripcion": "Experience the green brilliance of our Ball, perfect for enchanted environments",
+        "id": "1"
+    },
+    {
+        "nombre": "Chair",
+        "precio": "511.39",
+        "stock": 18,
+        "imagen": "https://avatars.githubusercontent.com/u/68920125",
+        "descripcion": "Featuring Iodine-enhanced technology, our Computer offers unparalleled careless performance",
+        "id": "2"
+    },
+    {
+        "nombre": "Table",
+        "precio": "598.09",
+        "stock": 25,
+        "imagen": "https://avatars.githubusercontent.com/u/39990729",
+        "descripcion": "Bode LLC's most advanced Ball technology increases humiliating capabilities",
+        "id": "3"
+    },
+    {
+        "nombre": "Soap",
+        "precio": "156.91",
+        "stock": 32,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/38.jpg",
+        "descripcion": "Stylish Bacon designed to make you stand out with bulky looks",
+        "id": "4"
+    },
+    {
+        "nombre": "Chips",
+        "precio": "397.29",
+        "stock": 67,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/97.jpg",
+        "descripcion": "The sleek and blushing Soap comes with blue LED lighting for smart functionality",
+        "id": "5"
+    },
+    {
+        "nombre": "Soap",
+        "precio": "111.59",
+        "stock": 43,
+        "imagen": "https://avatars.githubusercontent.com/u/76125526",
+        "descripcion": "The Okey Soap is the latest in a series of downright products from Kuhlman - Lueilwitz",
+        "id": "6"
+    },
+    {
+        "nombre": "Mouse",
+        "precio": "681.55",
+        "stock": 42,
+        "imagen": "https://avatars.githubusercontent.com/u/11530127",
+        "descripcion": "Featuring Praseodymium-enhanced technology, our Mouse offers unparalleled lost performance",
+        "id": "7"
+    },
+    {
+        "nombre": "Bacon",
+        "precio": "181.19",
+        "stock": 25,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/64.jpg",
+        "descripcion": "Our bird-friendly Shoes ensures mature comfort for your pets",
+        "id": "8"
+    },
+    {
+        "nombre": "Pants",
+        "precio": "126.59",
+        "stock": 92,
+        "imagen": "https://avatars.githubusercontent.com/u/89726159",
+        "descripcion": "Ergonomic Car made with Wooden for all-day big support",
+        "id": "9"
+    },
+    {
+        "nombre": "Tuna",
+        "precio": "235.99",
+        "stock": 88,
+        "imagen": "https://avatars.githubusercontent.com/u/64886905",
+        "descripcion": "Ergonomic Soap made with Ceramic for all-day big support",
+        "id": "10"
+    },
+    {
+        "nombre": "Ball",
+        "precio": "596.39",
+        "stock": 86,
+        "imagen": "https://avatars.githubusercontent.com/u/72123540",
+        "descripcion": "Our butterfly-friendly Computer ensures incomplete comfort for your pets",
+        "id": "11"
+    },
+    {
+        "nombre": "Chicken",
+        "precio": "224.46",
+        "stock": 27,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/19.jpg",
+        "descripcion": "Romaguera, Kessler and Berge's most advanced Soap technology increases untrue capabilities",
+        "id": "12"
+    },
+    {
+        "nombre": "Chips",
+        "precio": "606.15",
+        "stock": 7,
+        "imagen": "https://avatars.githubusercontent.com/u/65999764",
+        "descripcion": "Savor the sweet essence in our Gloves, designed for miserable culinary adventures",
+        "id": "13"
+    },
+    {
+        "nombre": "Chair",
+        "precio": "921.89",
+        "stock": 26,
+        "imagen": "https://avatars.githubusercontent.com/u/28219653",
+        "descripcion": "Stylish Keyboard designed to make you stand out with complicated looks",
+        "id": "14"
+    },
+    {
+        "nombre": "Table",
+        "precio": "269.55",
+        "stock": 70,
+        "imagen": "https://avatars.githubusercontent.com/u/14988713",
+        "descripcion": "Our zesty-inspired Shoes brings a taste of luxury to your delicious lifestyle",
+        "id": "15"
+    },
+    {
+        "nombre": "Tuna",
+        "precio": "773.49",
+        "stock": 17,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/11.jpg",
+        "descripcion": "The sleek and pastel Car comes with green LED lighting for smart functionality",
+        "id": "16"
+    },
+    {
+        "nombre": "Ball",
+        "precio": "744.09",
+        "stock": 63,
+        "imagen": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/18.jpg",
+        "descripcion": "Discover the fox-like agility of our Salad, perfect for both users",
+        "id": "17"
+    }
+]
